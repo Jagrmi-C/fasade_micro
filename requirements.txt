@@ -19,7 +19,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 orjson==3.3.0
-pkg-resources==0.0.0
+#pkg-resources==0.0.0
 promise==2.3
 pycodestyle==2.6.0
 pydantic==1.6.1
