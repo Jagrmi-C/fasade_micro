@@ -22,7 +22,7 @@ orjson==3.3.0
 pkg-resources==0.0.0
 promise==2.3
 pycodestyle==2.6.0
-pydantic==1.6.1
+pydantic==1.6.2
 python-multipart==0.0.5
 PyYAML==5.3.1
 requests==2.24.0
